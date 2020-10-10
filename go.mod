@@ -8,5 +8,4 @@ require (
 	github.com/colinmarc/hdfs/v2 v2.1.1
 	github.com/golang/mock v1.4.3
 	github.com/spf13/afero v1.2.2
-	github.com/xitongsys/parquet-go v1.5.1
 )
